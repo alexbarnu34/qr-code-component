@@ -18,6 +18,11 @@ It was an engaging experience that allowed me to focus on writing clean, semanti
         - Flexbox for layout
         - Mobile-first workflow
 
+ ### Links
+
+- **Solution URL:** [View on Frontend Mentor](https://your-solution-url.com)
+- **Live Demo:** [View Live Project](https://your-live-site-url.com)       
+
 ## What I Learned
     While working on this project, I improved my understanding of:
 
@@ -56,6 +61,5 @@ In future projects, I’d like to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+  GitHub: alexbarnu34
+  Frontend Mentor: alexbarnu34
