@@ -20,8 +20,8 @@ It was an engaging experience that allowed me to focus on writing clean, semanti
 
  ### Links
 
-- **Solution URL:** [View on Frontend Mentor](https://your-solution-url.com)
-- **Live Demo:** [View Live Project](https://your-live-site-url.com)       
+- **Solution URL:** [View on Frontend Mentor](https://github.com/alexbarnu34/qr-code-component)
+- **Live Demo:** [View Live Project](https://alexbarnu34.github.io/qr-code-component/)       
 
 ## What I Learned
     While working on this project, I improved my understanding of:
